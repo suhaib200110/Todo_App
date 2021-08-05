@@ -13,6 +13,6 @@ let col1 = new ItemCollection_1.ItemCollection(); //As no parameter is added so 
 col1.addTodo("Eat Mangoes");
 col1.addTodo("Eat Tikkah");
 col1.addTodo("Eat Orange");
-col1.taskDone(2); //After running the code, the second  task will return true
+col1.taskDone(2);
 col1.printDetails();
-console.log("End of file");
+

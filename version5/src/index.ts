@@ -20,3 +20,4 @@ col1.taskDone(2);        //After running the code, the second  task will return 
 
 
 col1.printDetails();
+console.log("End of file");
